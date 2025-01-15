@@ -1,0 +1,20 @@
+{
+  "name": "classboard_back",
+  "version": "1.0.0",
+  "description": "L'API de classboard",
+  "homepage": "https://github.com/GedQu4tre/classboard_back#readme",
+  "bugs": {
+    "url": "https://github.com/GedQu4tre/classboard_back/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/GedQu4tre/classboard_back.git"
+  },
+  "license": "ISC",
+  "author": "GedQu4tre",
+  "type": "commonjs",
+  "main": "classboard.js",
+  "scripts": {
+    "test": "node ."
+  }
+}
