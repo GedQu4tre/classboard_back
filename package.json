@@ -6,9 +6,6 @@
   "bugs": {
     "url": "https://github.com/GedQu4tre/classboard_back/issues"
   },
-  "repository": {
-    "type": "git",
-  },
   "license": "ISC",
   "author": "GedQu4tre",
   "type": "commonjs",
